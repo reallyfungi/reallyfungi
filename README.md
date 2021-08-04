@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reallyfungi (Sydney Burns)!
+- 👋 Hi, I’m a @reallyfungi(rl)!
 - 👀 I’m passionate about all things data and psych.
 - 🌱 I’m currently learning how to use dbt (data build tool).
 - 💞️ I’m looking to collaborate with other analytics engineers!
