@@ -1,5 +1,5 @@
 ## about
-hi, i'm sydney! 🌞 i'm an analytics engineer at brooklyn data co.
+hi, i'm sydney! 🌞 i'm an analytics engineer.
 
 most of my days are spent wrangling data, and thinking about how to maintain data pipelines or reporting.
 
